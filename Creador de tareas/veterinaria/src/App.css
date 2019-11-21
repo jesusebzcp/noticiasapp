@@ -1,0 +1,33 @@
+body{
+  background-image: url(./assets/img/fondo.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+color: white;
+
+  background-color: rgba(0, 0, 0, 0.521)!important;
+padding: 1rem 0;
+width: 100%;
+}
+.lista-citas{
+  color: black;
+
+  margin-bottom: 2rem;
+}
+span{
+  text-transform: uppercase;
+  color:#005662;
+  font-weight: bold;
+
+}
+.resultado{
+  color: #2c2c2c;
+}
+.mascota{
+  text-transform: capitalize;
+  color: #00838f;
+
+}
